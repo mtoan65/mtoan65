@@ -1,6 +1,7 @@
-## Hello 👋 World 🌍
-- 👋 Hi, I’m @mtoan65
+# Hello 👋 World 🌍
+
 <!---
+- 👋 Hi, I’m @mtoan65
 - 👀 I’m interested in AI.
 - 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on ...
