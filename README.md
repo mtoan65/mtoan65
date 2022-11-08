@@ -1,5 +1,7 @@
 # Hello 👋 World 🌍
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72D79&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Minh+Toan+%F0%9F%91%80.)](https://git.io/typing-svg)
+
 <!---
 - 👋 Hi, I’m @mtoan65
 - 👀 I’m interested in AI.
